@@ -168,7 +168,7 @@ const alumniData = [
     photo: "URL Foto",
   },
   {
-     nickname: "epiddd",
+     nickname: "Evid",
         campus: "School of Technopreneur Nusantara",
         ig: "https://www.instagram.com/epidoey/",
         linkedin: "https://www.linkedin.com/in/evid-wijaya/",

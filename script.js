@@ -126,11 +126,11 @@ const alumniData = [
     photo: "URL Foto",
   },
   {
-    nickname: "Syifa",
-    campus: "Asal Kampus",
-    ig: "Link Instagram",
-    linkedin: "Link LinkedIn",
-    photo: "URL Foto",
+    nickname: "Paul",
+    campus: "Universitas Sebelas Maret",
+    ig: "https://www.instagram.com/paa.ullll/",
+    linkedin: "https://www.linkedin.com/in/annisa-syifaul-ummah-3601b7266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    photo: "https://lh3.googleusercontent.com/pw/AP1GczP9zOueWnv-5p4b2eau9HXltcsp3Qi1FBWpCF7G8weKaHbFTjrDHWp57c2ncP4E9uJ5nFT0QZ8Ts7LKKCk6HnH3zOSlkgStHxRbWvm3jctG5ta5LQ=w2400",
   },
   {
     nickname: "Rizki",

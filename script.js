@@ -30,8 +30,8 @@ const alumniData = [
   {
     nickname: "Gustia",
     campus: "Asal Kampus",
-    ig: "Link Instagram",
-    linkedin: "Link LinkedIn",
+    ig: "https://www.instagram.com/i.am_gustiarahmi/",
+    linkedin: "https://www.linkedin.com/in/gustia-rahmi/",
     photo: "URL Foto",
   },
   {
@@ -100,8 +100,8 @@ const alumniData = [
   {
     nickname: "Faiz",
     campus: "Asal Kampus",
-    ig: "Link Instagram",
-    linkedin: "Link LinkedIn",
+    ig: "https://www.instagram.com/f4_sop/profilecard/?igsh=amlnNjFvN3UxZmVv",
+    linkedin: "https://www.linkedin.com/in/m-nurfaiz-satriani-azra-75395b331",
     photo: "URL Foto",
   },
   {

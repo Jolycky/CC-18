@@ -155,10 +155,10 @@ const alumniData = [
   },
   {
     nickname: "Sela",
-    campus: "Asal Kampus",
-    ig: "Link Instagram",
-    linkedin: "Link LinkedIn",
-    photo: "URL Foto",
+    campus: "Institut Teknologi Dirgantara Adisutjipto",
+    ig: "https://www.linkedin.com/in/seladwi",
+    linkedin: "https://www.instagram.com/sldwaprl/",
+    photo: "https://i.ibb.co.com/87tTvvh/image.png",
   },
   {
     nickname: "John",
